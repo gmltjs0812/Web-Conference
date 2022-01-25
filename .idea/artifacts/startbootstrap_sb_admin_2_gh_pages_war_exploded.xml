@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="startbootstrap-sb-admin-2-gh-pages:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/startbootstrap_sb_admin_2_gh_pages_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="startbootstrap-sb-admin-2-gh-pages/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="startbootstrap-sb-admin-2-gh-pages" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
